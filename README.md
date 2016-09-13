@@ -18,5 +18,5 @@
 - ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/10.png)
 - ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/11.png)
 - We also define how the navigation is displayed when the screen get smaller by 480px or lower (so this is our second breakpoint).We designed extract link "Menu".
-- ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/11.png)
 - ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/12.png)
+- ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/13.png)

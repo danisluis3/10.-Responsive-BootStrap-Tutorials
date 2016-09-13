@@ -6,4 +6,9 @@
 - b) The nav tag that define the navigation will have 100% full width of the browser window
 - ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/3.png)
 - ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/4.png)
+- c) Finish CSS. 
+- ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/5.png)
+- ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/6.png)
+- d) Reset Css (Using nomalize.css overite format of html).
+- 
 

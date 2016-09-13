@@ -10,5 +10,6 @@
 - ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/5.png)
 - ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/6.png)
 - d) Reset Css (Using nomalize.css overite format of html).
-- 
+- ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/7.png)
+- ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/8.png)
 

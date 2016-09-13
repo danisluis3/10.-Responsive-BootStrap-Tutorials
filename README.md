@@ -12,4 +12,9 @@
 - d) Reset Css (Using nomalize.css overite format of html).
 - ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/7.png)
 - ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/8.png)
-Media Queries
+- e) Media Queries
+- In this screen size, each of two menu links will be displayed side by side, so the ul‘s width here will be 100% of the browser window while the menu links will have 50% for the width
+- ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/9.png)
+- ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/10.png)
+- ![alt tag](https://github.com/danisluis3/10.-Responsive-BootStrap-Tutorials/blob/master/11.png)
+

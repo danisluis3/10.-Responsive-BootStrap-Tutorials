@@ -3,11 +3,39 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title></title>
+        <title>Responsive Navigation Demo</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <style>
+            /* Clearfix */
+            .clearfix:before,
+            .clearfix:after {
+                content: " ";
+                display: table;
+            }
+            .clearfix:after {
+                clear: both;
+            }
+            .clearfix {
+                *zoom: 1;
+            }
+            /* Basic Styles */
+            body{
+                background-color:#ece8e5;
+            }
+            nav{
+                height: 40px;
+                width: 100%; /* Responsitory Website */
+                background-color: #455868;
+                font-size: 11pt;
+                font-family: 'PT Sans',Arial,sans-serif;
+                font-weight: bold;
+                position: relative;
+                border-bottom: 2px solid #283744;
+            }
+        </style>
     </head>
     <body>
-        <div>
+        <!-- <div> -->
             <nav class="clearfix">
                 <ul class="clearfix">
                     <li><a href="#">Home</a></li>
@@ -19,6 +47,6 @@
                 </ul>
                 <a href="#" id="pull">Menu</a>
             </nav>
-        </div>
+        <!-- <div> -->
     </body>
 </html>
